@@ -1,0 +1,12 @@
+{
+int değer();
+değer=2;
+console.writeline(değer);
+}
+{
+string str1=string.Empty;
+str1="Zikriye Ürkmez";
+string ad="Zikriye";
+string soyad="Ürkmez";
+string tanisim=ad+""+soyad;
+
